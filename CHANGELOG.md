@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.5](https://github.com/fld-forge/governance/compare/v0.8.4...v0.8.5) (2026-08-22)
+
+
+### Documentation
+
+* **northstar:** date the readings nothing keeps current ([#52](https://github.com/fld-forge/governance/issues/52)) ([9dff2c3](https://github.com/fld-forge/governance/commit/9dff2c379295d5687deee6b86bc87c5d563da243))
+
 ## [0.8.4](https://github.com/fld-forge/governance/compare/v0.8.3...v0.8.4) (2026-08-22)
 
 
